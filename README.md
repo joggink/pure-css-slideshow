@@ -8,6 +8,10 @@ By adding radio boxes before each slide item we can target the active slide via 
 The radio buttons function as bullets, each slide has a label which is connected to a radio button so we can 
 use the arrow keys to target them
 
+## Demo
+
+http://static.joggink.com/labs/css-slideshow/
+
 ## Todo
 
 Make it responsive
